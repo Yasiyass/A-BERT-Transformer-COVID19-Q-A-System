@@ -1,0 +1,3 @@
+streamlit==0.84.0
+requests
+st-annotated-text==2.0.0
