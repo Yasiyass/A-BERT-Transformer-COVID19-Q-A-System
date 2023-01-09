@@ -7,7 +7,7 @@ User-friendly interface for submitting questions and receiving real-time predict
 Robust Q&A engine module that parses questions and utilizes deep learning models to find accurate answers
 Extensive knowledge base module that stores and manages a wealth of information on Covid-19
 
-Road map:
+Components:
 
 · Data pre-processing
 
